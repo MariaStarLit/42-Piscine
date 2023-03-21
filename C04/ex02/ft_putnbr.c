@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/17 15:51:52 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/17 15:58:01 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:59:03 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,5 +45,5 @@ void	ft_putnbr(int nb)
 /*int	main(void)
 {
 	ft_putnbr(2142678);
-	ft_putchar('\n');
+	ft_putchar('\n'); 
 }*/

@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/17 15:39:12 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/17 21:29:12 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:58:59 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,5 +33,5 @@ void	ft_putstr(char *str)
 {
 	char	fio[] = "BANANA";
 
-	ft_putstr(fio);
+	ft_putstr(fio); 
 }*/

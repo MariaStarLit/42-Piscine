@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/17 15:58:21 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/17 21:30:02 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:59:07 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -49,5 +49,5 @@ int	ft_atoi(char *str)
 
 /*int	main(void)
 {
-	printf("%d", ft_atoi("\n\t\r\v\r++++--420"));
+	printf("%d", ft_atoi("\n\t\r\v\r++++--420")); 
 }*/
