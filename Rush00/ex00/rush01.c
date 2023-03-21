@@ -6,14 +6,14 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/07 14:08:54 by mde-avel          #+#    #+#             */
-/*   Updated: 2023/01/03 17:57:30 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:05:08 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 void	ft_putchar(char c);
 
 // col = x
-// line = y
+// line = y 
 
 void	first_last_line(int x, int y, int col, int line)
 {
