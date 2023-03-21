@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/09 17:38:02 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 16:22:16 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:53:40 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,5 +40,5 @@ void	ft_ultimate_ft(int *********nbr)
 	a8 = &a7;
 	printf ("a8: %d\n", ********a8);
 	ft_ultimate_ft(&a8);
-	printf ("depois: %d\n", n);
+	printf ("depois: %d\n", n); 
 }*/

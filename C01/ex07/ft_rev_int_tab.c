@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/09 19:55:54 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 16:38:45 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:54:12 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,7 +41,7 @@ void	ft_rev_int_tab(int *tab, int size)
 	k = 0;
 	while (k < len)
 	{
-		printf("%d, ", numeros[k]);
+		printf("%d, ", numeros[k]); 
 		k++;
 	}
 }*/

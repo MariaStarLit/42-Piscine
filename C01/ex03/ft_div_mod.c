@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/10 00:07:08 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 16:29:03 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:53:49 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -28,5 +28,5 @@ void	ft_div_mod(int a, int b, int *div, int *mod)
 	n1 = 48;
 	n2 = 9;
 	ft_div_mod(n1, n2, &divi, &resto);
-	printf ("Divisao: %d, Resto: %d\n", divi, resto);
+	printf ("Divisao: %d, Resto: %d\n", divi, resto); 
 }*/

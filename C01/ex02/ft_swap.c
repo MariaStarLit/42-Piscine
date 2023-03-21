@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/09 18:18:44 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 16:26:02 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:53:45 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,5 +30,5 @@ void	ft_swap(int *a, int *b)
 	swap2 = 1966;
 	printf ("antes 1: %d; 2: %d\n", swap1, swap2);
 	ft_swap(&swap1, &swap2);
-	printf ("depois 1: %d; 2: %d\n", swap1, swap2);
+	printf ("depois 1: %d; 2: %d\n", swap1, swap2); 
 }*/

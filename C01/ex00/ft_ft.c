@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/08 19:48:21 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 16:18:28 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:53:34 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,5 +24,5 @@ void	ft_ft(int *nbr)
 	nb = 34536;
 	printf ("antes: %d\n", nb);
 	ft_ft(&nb);
-	printf ("depois: %d\n", nb);
+	printf ("depois: %d\n", nb); 
 }*/

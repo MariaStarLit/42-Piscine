@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/09 22:56:18 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 16:44:06 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:54:20 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,7 +50,7 @@ void	ft_sort_int_tab(int *tab, int size)
 	k = 0;
 	while (k < len)
 	{
-		printf("%d, ", ordenar[k]);
+		printf("%d, ", ordenar[k]); 
 		k++;
 	}
 }*/
