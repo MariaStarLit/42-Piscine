@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/15 14:43:02 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/16 20:17:23 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:57:54 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,5 +30,5 @@ int	ft_strcmp(char *s1, char *s2)
 	char b[] = "BANANA!";
 
 	ft_strcmp(a, b);
-	printf ("return: %d", ft_strcmp(a, b));
+	printf ("return: %d", ft_strcmp(a, b)); 
 }*/

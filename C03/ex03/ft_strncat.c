@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/16 20:10:03 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/16 20:44:13 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:58:06 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -45,5 +45,5 @@ char	*ft_strncat(char *dest, char *src, unsigned int nb)
 	unsigned int	n = 4;
 
 	ft_strncat(des, orig, n);
-	printf ("return: %s\n", des);
+	printf ("return: %s\n", des); 
 }*/

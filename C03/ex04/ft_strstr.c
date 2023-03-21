@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/16 20:45:46 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/16 20:50:50 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:58:09 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -40,5 +40,5 @@ char	*ft_strstr(char *str, char *to_find)
 	char	b[30] = "BANANA! XD";
 
 	ft_strstr(b, a);
-	printf ("return: %s", ft_strstr(b, a));
+	printf ("return: %s", ft_strstr(b, a)); 
 }*/
