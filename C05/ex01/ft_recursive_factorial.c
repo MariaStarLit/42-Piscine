@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/21 15:54:05 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/21 16:35:29 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:00:15 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,5 +38,5 @@ int	ft_recursive_factorial(int nb)
 
 	n = -3 + 7;
 	res = ft_recursive_factorial(n);
-	printf("n = %d, res = %d\n", n, res);
+	printf("n = %d, res = %d\n", n, res); 
 }*/

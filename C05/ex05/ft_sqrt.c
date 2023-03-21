@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/22 15:47:38 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/22 17:08:04 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:00:32 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -37,5 +37,5 @@ int	ft_sqrt(int nb)
 	printf("n2: %d\n", ft_sqrt(4));
 	printf("n3: %d\n", ft_sqrt(2));
 	printf("n4: %d\n", ft_sqrt(3));
-	printf("n5: %d\n", ft_sqrt(2147483647));
+	printf("n5: %d\n", ft_sqrt(2147483647)); 
 }*/

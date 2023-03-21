@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/22 17:45:40 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/22 18:21:52 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:00:46 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -44,5 +44,5 @@ int	ft_find_next_prime(int nb)
 	printf("n3: %d\n", ft_find_next_prime(11));
 	printf("n4: %d\n", ft_find_next_prime(42));
 	printf("n5: %d\n", ft_find_next_prime(47));
-	printf("n6: %d\n", ft_find_next_prime(2147483647));
+	printf("n6: %d\n", ft_find_next_prime(2147483647)); 
 }*/

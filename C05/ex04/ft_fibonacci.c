@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/22 14:22:28 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/22 15:38:05 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:00:29 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,5 +38,5 @@ int	ft_fibonacci(int index)
 	}
 	res = ft_fibonacci(index);
 	printf ("%d\n", res);
-	return (0);
+	return (0); 
 }*/

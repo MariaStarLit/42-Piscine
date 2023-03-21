@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/21 12:34:10 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/21 13:50:44 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:00:12 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,5 +41,5 @@ int	ft_iterative_factorial(int nb)
 
 	n = 7;
 	res = ft_iterative_factorial(n);
-	printf("n = %d, res = %d\n", n, res);
+	printf("n = %d, res = %d\n", n, res); 
 }*/
