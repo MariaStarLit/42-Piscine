@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/11 19:33:22 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/15 22:18:18 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:07 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,5 +33,5 @@ int	ft_str_is_alpha(char *str)
 {
 	char	al[20] = "DFGHwerty";
 	int n = ft_str_is_alpha(al);
-	printf ("%d\n", n);
+	printf ("%d\n", n); 
 }*/

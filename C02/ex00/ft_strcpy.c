@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/11 12:26:46 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 19:22:21 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:01 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -33,5 +33,5 @@ char	*ft_strcpy(char *dest, char *src)
 	char des[100];
 
 	ft_strcpy (des, orig);
-	printf("return: %s\n", des);
+	printf("return: %s\n", des); 
 }*/

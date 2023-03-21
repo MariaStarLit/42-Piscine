@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/13 21:08:11 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/15 22:14:05 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:35 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -56,5 +56,5 @@ char	*ft_strcapitalize(char *str)
 	char	cap[100] = "salut, commEnt tu vaS ? 42moTs quarAnte-deux; cinquAnte+et+un";
 
 	ft_strcapitalize(cap);
-	printf("%s\n", cap);
+	printf("%s\n", cap); 
 }*/

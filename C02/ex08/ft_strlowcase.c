@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/13 21:02:09 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 20:04:23 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:30 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,5 +31,5 @@ char	*ft_strlowcase(char *str)
 /*int	main(void)
 {
 	char	fiolow[40] = "Porra xOXOXOxo Xd";
-	printf("%s\n", ft_strlowcase(fiolow));
+	printf("%s\n", ft_strlowcase(fiolow)); 
 }*/

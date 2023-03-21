@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/14 18:04:57 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/15 22:14:11 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:39 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -41,5 +41,5 @@ unsigned int	ft_strlcpy(char *dest, char *src, unsigned int size)
 
 	n = ft_strlcpy(desti, orig, 7);
 	printf("desti: %s\n", desti);
-	printf("return: %d\n", n);
+	printf("return: %d\n", n); 
 }*/

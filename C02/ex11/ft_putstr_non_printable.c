@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/15 12:08:45 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/15 22:05:47 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:46 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -63,5 +63,5 @@ void	ft_putstr_non_printable(char *str)
 	char	nop[] = "\rCoucou\ntu vas bien ?";
 
 	ft_putstr_non_printable(nop);
-	write(1, "\n", 1);
+	write(1, "\n", 1); 
 }*/

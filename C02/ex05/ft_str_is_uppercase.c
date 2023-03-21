@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/13 20:21:17 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 19:57:08 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:19 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,5 +31,5 @@ int	ft_str_is_uppercase(char *str)
 /*int	main(void)
 {
 	char	upper[30] = "BANANA";
-	printf("%d\n", ft_str_is_uppercase(upper));
+	printf("%d\n", ft_str_is_uppercase(upper)); 
 }*/

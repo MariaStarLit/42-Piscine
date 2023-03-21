@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/11 15:27:47 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/15 22:26:52 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:04 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -36,5 +36,5 @@ char	*ft_strncpy(char	*dest, char	*src, unsigned	int n)
 	char des[40] = "Sugar Pie Honney Bun!";
 
 	ft_strncpy (des, orig, 40);
-	printf("return: %s\n", des);
+	printf("return: %s\n", des); 
 }*/

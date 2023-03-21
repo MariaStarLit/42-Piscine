@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/13 20:51:35 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/14 20:01:22 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:56:26 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,5 +31,5 @@ char	*ft_strupcase(char *str)
 /*int	main(void)
 {
 	char	fioup[40] = "Porra xoxoxo Xd";
-	printf("%s\n", ft_strupcase(fioup));
+	printf("%s\n", ft_strupcase(fioup)); 
 }*/
