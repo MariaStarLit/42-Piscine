@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/24 00:20:28 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/24 19:25:42 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:04:05 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -53,5 +53,5 @@ int	ft_ultimate_range(int **range, int min, int max)
 		i++;
 	}
 	printf("\n--------\nArray Size\n--------\n");
-	printf("%i\n", range);
+	printf("%i\n", range); 
 }*/

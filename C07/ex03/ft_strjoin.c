@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/24 16:39:02 by mde-avel          #+#    #+#             */
-/*   Updated: 2023/01/03 17:19:02 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:04:11 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -89,5 +89,5 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 	printf("res: %s\n", res_str);
 	free(strs);
 	free(res_str);
-	return (0);
+	return (0); 
 }*/

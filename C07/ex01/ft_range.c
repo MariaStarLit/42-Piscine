@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/23 18:39:59 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/24 19:05:32 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:04:00 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -55,5 +55,5 @@ int	*ft_range(int min, int max)
 		}
 	}
 	else
-		printf("Deu merda!");
+		printf("Deu merda!"); 
 }*/

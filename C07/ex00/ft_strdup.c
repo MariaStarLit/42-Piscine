@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/23 17:55:47 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/24 19:03:43 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 22:03:55 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,5 +50,5 @@ char	*ft_strdup(char *src)
 		theirs = strdup(av[1]);
 		printf("mine: |%s|\nthey: |%s|\n", mine, theirs);
 	}
-	return (0);
+	return (0); 
 }*/
