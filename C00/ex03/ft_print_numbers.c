@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/04 21:42:06 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/10 19:45:38 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:47:44 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,5 +27,5 @@ void	ft_print_numbers(void)
 /*int	main(void)
 {
 	ft_print_numbers();
-	write(1, "\n", 1);
+	write(1, "\n", 1); 
 }*/

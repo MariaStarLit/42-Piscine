@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/04 20:34:30 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/10 19:26:25 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:47:57 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -20,5 +20,5 @@ void	ft_putchar(char c)
 /*int	main(void)
 {
 	ft_putchar('A');
-	write(1, "\n", 1);
+	write(1, "\n", 1); 
 }*/

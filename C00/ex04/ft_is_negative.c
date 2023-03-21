@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/04 21:48:19 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/11 11:32:00 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:47:39 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -31,5 +31,5 @@ void	ft_is_negative(int n)
 /*int	main(void)
 {
 	ft_is_negative(0);
-	write(1, "\n", 1);
+	write(1, "\n", 1); 
 }*/

@@ -6,7 +6,7 @@
 /*   By: mde-avel <mde-avel@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/08/04 21:53:47 by mde-avel          #+#    #+#             */
-/*   Updated: 2022/08/24 15:56:20 by mde-avel         ###   ########.fr       */
+/*   Updated: 2023/03/21 21:47:35 by mde-avel         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -50,5 +50,5 @@ void	ft_print_comb(void)
 
 /*int	main(void)
 {
-	ft_print_comb();
+	ft_print_comb(); 
 }*/
